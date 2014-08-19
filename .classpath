@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-core-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-tcp-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-bosh-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-debug-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-experimental-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-extensions-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-jingle-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-legacy-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/smack_4_0_3/libs/smack-resolver-javax-4.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/code7/im/TestMUC 2/TestMUC/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
